@@ -1,3 +1,6 @@
+DZ Geek Hangout est un groupe ouvert sur Facebook qui propose des ateliers en ligne via Hangout.
+
+#Requirements
 Flask==0.10.1
 Flask-Mail==0.9.0
 Flask-SQLAlchemy==1.0
